@@ -1,0 +1,6 @@
+The Sirs are: Andrew Bill Hilary Nancy 
+There is a unique solution:
+Sir Andrew is a Knave.
+Sir Bill is a Knight.
+Sir Hilary is a Knave.
+Sir Nancy is a Knight.

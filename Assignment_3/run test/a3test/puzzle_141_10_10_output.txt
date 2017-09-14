@@ -1,0 +1,12 @@
+The Sirs are: BRYAN CABRERA CLINE KEMP LANE LIVINGSTON OCONNOR ROBERSON ROLLINS WRIGHT 
+There is a unique solution:
+Sir BRYAN is a Knave.
+Sir CABRERA is a Knave.
+Sir CLINE is a Knave.
+Sir KEMP is a Knave.
+Sir LANE is a Knave.
+Sir LIVINGSTON is a Knave.
+Sir OCONNOR is a Knave.
+Sir ROBERSON is a Knave.
+Sir ROLLINS is a Knave.
+Sir WRIGHT is a Knave.

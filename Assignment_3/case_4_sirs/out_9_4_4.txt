@@ -1,0 +1,6 @@
+The Sirs are: BARTON JENNINGS STAFFORD SWANSON 
+There is a unique solution:
+Sir BARTON is a Knight.
+Sir JENNINGS is a Knight.
+Sir STAFFORD is a Knight.
+Sir SWANSON is a Knave.

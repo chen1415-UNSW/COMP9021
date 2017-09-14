@@ -1,0 +1,6 @@
+The maze has 5 gates.
+The maze has 2 sets of walls that are all connected.
+The maze has no inaccessible inner point.
+The maze has 2 accessible areas.
+The maze has accessible cul-de-sacs that are all connected.
+The maze has no entry-exit path with no intersection not to cul-de-sacs.

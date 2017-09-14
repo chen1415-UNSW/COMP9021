@@ -1,0 +1,6 @@
+The Sirs are: CASE JENKINS KEMP PICKETT 
+There is a unique solution:
+Sir CASE is a Knave.
+Sir JENKINS is a Knight.
+Sir KEMP is a Knave.
+Sir PICKETT is a Knave.

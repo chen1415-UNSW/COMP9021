@@ -1,0 +1,6 @@
+The Sirs are: BEARD BOYD HANSON HENSLEY 
+There is a unique solution:
+Sir BEARD is a Knave.
+Sir BOYD is a Knave.
+Sir HANSON is a Knight.
+Sir HENSLEY is a Knight.

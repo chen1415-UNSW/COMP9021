@@ -1,0 +1,6 @@
+The Sirs are: DELACRUZ FRY JARVIS RASMUSSEN 
+There is a unique solution:
+Sir DELACRUZ is a Knight.
+Sir FRY is a Knave.
+Sir JARVIS is a Knight.
+Sir RASMUSSEN is a Knight.

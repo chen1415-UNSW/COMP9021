@@ -1,0 +1,3 @@
+Which text file do you want to use for the puzzle?
+The Sirs are: DECKER GALLOWAY MCCLAIN MCDOWELL RHODES WRIGHT 
+There is no solution.

@@ -1,0 +1,39 @@
+E:\UNSW_semester_1\principle_of_programming\assignment_2>maze.py -print --file test_file_1_1.txt
+The maze has 3 gates.
+The maze has a single wall that are all connected.
+The maze has no inaccessible inner point.
+The maze has a unique accessible area.
+The maze has no accessible cul-de-sac.
+The maze has no entry-exit path with no intersection not to cul-de-sacs.
+
+E:\UNSW_semester_1\principle_of_programming\assignment_2>maze.py -print --file test_file_10_20.txt
+The maze has 37 gates.
+The maze has 10 sets of walls that are all connected.
+The maze has 36 inaccessible inner points.
+The maze has 15 accessible areas.
+The maze has 35 sets of accessible cul-de-sacs that are all connected.
+The maze has 5 entry-exit paths with no intersections not to cul-de-sacs.
+
+E:\UNSW_semester_1\principle_of_programming\assignment_2>maze.py -print --file test_file_20_30.txt
+The maze has 55 gates.
+The maze has 36 sets of walls that are all connected.
+The maze has 138 inaccessible inner points.
+The maze has 20 accessible areas.
+The maze has 89 sets of accessible cul-de-sacs that are all connected.
+The maze has 5 entry-exit paths with no intersections not to cul-de-sacs.
+
+E:\UNSW_semester_1\principle_of_programming\assignment_2>maze.py -print --file test_file_55_35.txt
+The maze has 107 gates.
+The maze has 121 sets of walls that are all connected.
+The maze has 412 inaccessible inner points.
+The maze has 39 accessible areas.
+The maze has 269 sets of accessible cul-de-sacs that are all connected.
+The maze has 4 entry-exit paths with no intersections not to cul-de-sacs.
+
+E:\UNSW_semester_1\principle_of_programming\assignment_2>maze.py -print --file test_file_125_195.txt
+The maze has 302 gates.
+The maze has 867 sets of walls that are all connected.
+The maze has 8215 inaccessible inner points.
+The maze has 116 accessible areas.
+The maze has 2728 sets of accessible cul-de-sacs that are all connected.
+The maze has 11 entry-exit paths with no intersections not to cul-de-sacs.

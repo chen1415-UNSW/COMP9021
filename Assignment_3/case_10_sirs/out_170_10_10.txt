@@ -1,0 +1,12 @@
+The Sirs are: BRYANT DANIEL DURAN FRANCO HURLEY MEDINA SWEET THORNTON WEBER WOLFE 
+There is a unique solution:
+Sir BRYANT is a Knave.
+Sir DANIEL is a Knight.
+Sir DURAN is a Knave.
+Sir FRANCO is a Knave.
+Sir HURLEY is a Knave.
+Sir MEDINA is a Knight.
+Sir SWEET is a Knight.
+Sir THORNTON is a Knight.
+Sir WEBER is a Knave.
+Sir WOLFE is a Knight.

@@ -1,0 +1,3 @@
+Which text file do you want to use for the puzzle?
+The Sirs are: BALLARD HORNE PEREZ ROSA STANTON WEBSTER
+There are 3 solutions.

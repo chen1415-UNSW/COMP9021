@@ -1,0 +1,8 @@
+The Sirs are: DANIELS FIGUEROA GILLESPIE HART LE NORTON 
+There is a unique solution:
+Sir DANIELS is a Knave.
+Sir FIGUEROA is a Knave.
+Sir GILLESPIE is a Knave.
+Sir HART is a Knight.
+Sir LE is a Knight.
+Sir NORTON is a Knight.

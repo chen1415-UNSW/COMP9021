@@ -1,0 +1,8 @@
+The Sirs are: JARVIS KINNEY MAXWELL SHELTON SOLIS WALL 
+There is a unique solution:
+Sir JARVIS is a Knave.
+Sir KINNEY is a Knight.
+Sir MAXWELL is a Knight.
+Sir SHELTON is a Knight.
+Sir SOLIS is a Knave.
+Sir WALL is a Knave.
